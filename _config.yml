@@ -1,4 +1,4 @@
-title: Learnings
+title: Cert Study Kits
 description: Self-study kits and learning notes, diagram-led.
 remote_theme: just-the-docs/just-the-docs
 
@@ -12,7 +12,7 @@ heading_anchors: true
 
 aux_links:
   "View on GitHub":
-    - "https://github.com/carolinemutua/learnings"
+    - "https://github.com/carolinemutua/cert-study-kits"
 
 color_scheme: aipm
 
