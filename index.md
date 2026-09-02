@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Learnings
+# Cert Study Kits
 
 A collection of self-study kits and learning notes, built diagram-first so concepts are visible, not just described. Each kit maps to a concrete goal, sequences the work day by day, and links back to authoritative sources.
 

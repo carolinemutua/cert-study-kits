@@ -224,3 +224,41 @@ body.nav-collapsed .main {
     display: none;
   }
 }
+
+// --- Reading width: use more of the screen on large displays ---
+
+// The theme caps the content at a narrow fixed column, which leaves wide
+// empty margins on large monitors (small screens are already fluid and fine).
+// Widen the column in steps with comfortable caps so lines stay readable
+// while the dead space shrinks, keeping the layout responsive end to end.
+@media (min-width: 50rem) {
+  .main {
+    max-width: 1080px;
+  }
+}
+
+@media (min-width: 66.25rem) {
+  .main {
+    max-width: 1240px;
+  }
+}
+
+@media (min-width: 87.5rem) {
+  .main {
+    max-width: 1400px;
+  }
+}
+
+// Give the content a touch more breathing room from the sidebar and the
+// right edge so the wider column does not run flush against the chrome.
+.main-content-wrap {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width: 50rem) {
+  .main-content-wrap {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
