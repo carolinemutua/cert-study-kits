@@ -1,10 +1,10 @@
-# Learnings
+# Cert Study Kits
 
 Self-study kits and learning notes, built diagram-first so concepts are visible, not just described. Published as a site with GitHub Pages.
 
 ## Live site
 
-https://carolinemutua.github.io/learnings/
+https://carolinemutua.github.io/cert-study-kits/
 
 ## Kits
 
@@ -42,7 +42,7 @@ gem install bundler jekyll
 bundle exec jekyll serve
 ```
 
-Then open http://localhost:4000/learnings/.
+Then open http://localhost:4000/cert-study-kits/.
 
 ## Contributing a new kit
 
