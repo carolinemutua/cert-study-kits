@@ -18,22 +18,28 @@ A twenty-one day plan that assumes roughly one to two hours on weekdays and a lo
 | Perform threat hunting | 20 to 25 percent | 4 | Smallest area by weight, but Kusto Query Language practice is spread across all twenty-one days |
 | Consolidation | Not applicable | 2 | Full practice assessments and targeted repair of weak areas |
 
+## How the sprint is shaped
+
+The dates below are an illustrative three weeks starting on a Monday. Substitute the real dates for the chosen sitting, keeping the same shape, so the practice assessment still lands two days before the exam.
+
 ```mermaid
 gantt
-    title SC-200 twenty-one day sprint
-    dateFormat X
-    axisFormat Day %s
+    title SC-200 twenty-one day sprint (example dates)
+    dateFormat YYYY-MM-DD
+    axisFormat %a %d
     section Domain 1
-    Ingestion and connectors      :0, 3
-    Detections and analytics      :3, 3
-    Automation and platform       :6, 3
+    Ingestion and connectors             :2026-09-07, 3d
+    Detections and analytics             :2026-09-10, 3d
+    Automation and platform              :2026-09-13, 3d
     section Domain 2
-    Defender XDR response         :9, 3
-    Endpoint and M365 investigation :12, 3
+    Defender XDR response                :2026-09-16, 3d
+    Endpoint and M365 investigation      :2026-09-19, 3d
     section Domain 3
-    Hunting with KQL              :15, 4
-    section Consolidation
-    Practice assessments and repair :19, 2
+    Hunting with Kusto Query Language    :2026-09-22, 4d
+    section Exam readiness
+    Full practice assessment             :2026-09-26, 1d
+    Repair weak areas                    :2026-09-27, 1d
+    Exam                                 :milestone, 2026-09-28, 0d
 ```
 
 ## Daily rhythm
