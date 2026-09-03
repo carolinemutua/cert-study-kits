@@ -13,6 +13,7 @@ https://carolinemutua.github.io/cert-study-kits/
 | `gh-600-agentic-ai-developer/` | Study kit for GitHub Certified: Agentic AI Developer (Exam GH-600) |
 | `gh-300-github-copilot/` | Study kit for the GitHub Copilot certification (Exam GH-300) |
 | `claude-certified-architect/` | Study kit for the Claude Certified Architect (Foundations) exam |
+| `sc-200-security-operations/` | Study kit for Microsoft Certified: Security Operations Analyst Associate (Exam SC-200) |
 | `git-github-ci/` | Notes on version control, pull requests, and CI workflows |
 | `continuous-deployment/` | How a merge becomes a live deployment through a real pipeline |
 

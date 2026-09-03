@@ -15,6 +15,7 @@ A collection of self-study kits and learning notes, built diagram-first so conce
 | [GH-600: Agentic AI Developer]({{ site.baseurl }}/gh-600-agentic-ai-developer/) | Pass the GitHub Certified: Agentic AI Developer exam in a six-day sprint | Active |
 | [GH-300: GitHub Copilot]({{ site.baseurl }}/gh-300-github-copilot/) | Pass the GitHub Copilot certification exam in a two-week sprint | Active |
 | [Claude Certified Architect]({{ site.baseurl }}/claude-certified-architect/) | Pass the Claude Certified Architect (Foundations) exam in a two-week sprint | Active |
+| [SC-200: Security Operations Analyst]({{ site.baseurl }}/sc-200-security-operations/) | Pass the Microsoft Security Operations Analyst exam in a three-week sprint | Active |
 | [Git, GitHub & CI]({{ site.baseurl }}/git-github-ci/) | Understand version control, pull requests, and CI workflows, and drive them from both the command line and the web interface | Active |
 | [Continuous Deployment (CD)]({{ site.baseurl }}/continuous-deployment/) | See how a merge becomes a live deployment, using a real GitHub Actions and Render pipeline | Active |
 
